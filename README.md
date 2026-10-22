@@ -1,3 +1,3 @@
-# King-s-CC-YCPHacks-2026-Prep
+KCC-YCPHacks-2026-Prep
 
-This is our github prep repo
+This is our github prep repo.
